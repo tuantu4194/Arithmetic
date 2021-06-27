@@ -1,5 +1,5 @@
 % input string
-str = 'GeeksforGeeks';
+str = 'I am a Blink, i really like Rose and i am a big fan of her';
 fprintf('The entered string is : %s\n', str);
 
 % length of the string
